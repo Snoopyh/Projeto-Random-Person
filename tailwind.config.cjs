@@ -12,6 +12,8 @@ module.exports = {
    
       backgroundImage:{
         galaxy: "url('/background-galaxy.png')",
+        gradientButton:'linear-gradient(89.86deg, #9572FC 10.08%, #43E7AD 65.94%, #E1D55D 100%)',
+        gradient:'linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.9) 67.08%)',
         
       },
     },

@@ -11,7 +11,7 @@ function App() {
       <div className="max-w-[1100px] mx-auto flex flex-row gap-2 items-center mt-10 mb-2">
         <Moldura teams={AllTeams.time1} />
       </div>
-      <Button />
+      <Button nome="Aleatorio" />
       <div className="max-w-[1100px] mx-auto flex flex-row gap-2 items-center my-2">
         <Moldura teams={AllTeams.time2} />
       </div>
